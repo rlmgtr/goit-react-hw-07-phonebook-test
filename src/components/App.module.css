@@ -16,31 +16,26 @@
     }
   }
   
-  body {
-    background-color: rgb(254, 152, 186);
+  body { 
+    
     text-align: ce;
   }
   
-  label {
-    font-style: oblique;
-    font-weight: bold;
-    filter: grayscale(100%) invert(12%) sepia(100%) saturate(1000%)
-      hue-rotate(10deg);
-  }
+ 
   
   button {
     margin-top: 10px;
     border-radius: 10%;
-    border-color: violet;
+    
   }
   
   h1 {
     text-align: center;
-    color: #9c06d7;
+    
   }
   
   h2 {
-    color: #a807de;
+    
     text-align: center;
   }
   
@@ -62,5 +57,5 @@
   }
   
   .input {
-    max-width: 1000px;
+    max-width: 50px;
   }
